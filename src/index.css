@@ -1,0 +1,10 @@
+.fondo{
+  background-image: url('../public/img/fondo.jpg') ;
+  background-size: 50%;
+}
+-card-hover{
+  transition:  all.25s ease;
+}
+.card-hover:hover{
+  transform: translate(-8py) scale(1.01);
+}
